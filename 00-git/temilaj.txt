@@ -1,0 +1,5 @@
+Temi Lajumoke
+
+finished exercise 3
+- link to exercise 1 repo: https://github.com/temilaj/cs-506-lab-1-1
+- link to exercise 3 repo: https://github.com/temilaj/cs-506-lab-1-3
